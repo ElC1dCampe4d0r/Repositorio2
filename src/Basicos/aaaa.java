@@ -1,5 +1,4 @@
 package Basicos;
 
-public class aaaa {
-
+public class aaaa{
 }
